@@ -5,6 +5,7 @@ import random
 
 shelfweight = 0
 
+
 shelf = []
 
 item_dict = {"Milk" : 70 , "Bread" : 30 , "Eggs" : 43 , "Juice" : 36 ,
